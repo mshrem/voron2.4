@@ -1,4 +1,4 @@
 [Variables]
-nozzle_expansion_applied_offset = 0.02400000000118698
+nozzle_expansion_applied_offset = 0
 nozzle_expansion_coefficient = 0.03000000000148373
 
